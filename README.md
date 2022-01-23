@@ -23,7 +23,8 @@ public class Ejemplo00 {
 }
 ```
 #### Respuesta aquí
-
+En este código existe un arreglo llamado datos dentro del main, también existe un método que recibe como parámetros el arreglo y su longitud. 
+Dentro de este método, existe una recursividad, ya que va sumando todos los números que existen dentro del arreglo, desde la posicion más alta, hasta que sea igual a 1, que es cuando retorna la suma completa. Después se presenta en pantalla el resultado.
 #### Fin respuesta
 
 ***
